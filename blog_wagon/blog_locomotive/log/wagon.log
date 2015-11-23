@@ -11,3 +11,47 @@ Found page "Home page" [index]
 * Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-11-23 14:38:28 +0000
 * Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-11-23 14:41:20 +0000
 * Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-11-23 14:42:45 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 14:46:12 +0000
+[0;97;49mStarted GET "/" at 2015-11-23 14:46:23 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 14:46:25 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 14:46:28 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 15:09:41 +0000
+[0;97;49mStarted GET "/" at 2015-11-23 15:09:45 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 15:10:37 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 15:13:04 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
