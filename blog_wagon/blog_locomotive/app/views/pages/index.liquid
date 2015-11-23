@@ -33,6 +33,7 @@ published: true
     {{ 'styles' | stylesheet_tag }}
     {{ 'fonts' | stylesheet_tag }}
   </head>
+
   <body class="page-{{ page.slug }}">
     <div class="container">
   <!-- Site Title -->
@@ -74,10 +75,14 @@ published: true
       <h2>{{ page.title }}</h2>
       {% block 'main' %}
         Coming Soon.
+        {% assign photo = "temppeliaukio.jpg" | theme_image_url %}
+        {% include 'img_box' with photo, caption: "Temppeliaukio Church, Helsinki", size: "1000x300#" %}
       {% endblock %}
     </div>
   </div>
 </div>
+
+{% include 'footer' %}
 
 <!-- Javascripts -->
 <script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>

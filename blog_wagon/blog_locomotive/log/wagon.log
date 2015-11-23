@@ -314,3 +314,98 @@ Found page "About" [about]
 
 [0m
 * Reloaded "pages", "snippets" at 2015-11-23 16:27:52 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 16:30:59 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 17:04:26 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 17:04:31 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 23.3ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2015-11-23 17:05:04 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 17:06:09 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 17:06:16 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 17:06:54 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 17:07:35 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+[0;31;49m[ERROR] Unknown snippet "img_box" - ./app/views/pages/about.liquid:19:in `About'
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 17:07:49 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 17:07:50 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered snippet img-box
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 17:07:56 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 17:08:08 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 17:08:13 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 17:08:17 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered snippet img_box
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 17:08:28 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 17:10:15 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 17:10:55 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered snippet img_box
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 17:10:57 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet img_box
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 17:14:28 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet img_box
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.9ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2015-11-23 17:14:33 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered snippet img_box
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 17:14:35 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet img_box
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.3ms
+
+[0m
