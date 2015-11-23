@@ -211,3 +211,41 @@ Found page "About" [about]
 [0;32;49mCompleted 200 OK in 2.8ms
 
 [0m
+* Reloaded "pages", "snippets" at 2015-11-23 15:58:07 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 15:58:44 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2015-11-23 15:58:46 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 15:59:10 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 15:59:39 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 15:59:45 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2015-11-23 16:00:21 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2015-11-23 16:01:16 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.9ms
+
+[0m
