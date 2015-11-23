@@ -1,1 +1,13 @@
 # Logfile created on 2015-11-20 17:10:32 +0000 by logger.rb/1.2.8
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 14:21:33 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-11-23 14:38:28 +0000
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-11-23 14:41:20 +0000
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-11-23 14:42:45 +0000

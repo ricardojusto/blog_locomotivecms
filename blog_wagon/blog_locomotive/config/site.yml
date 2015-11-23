@@ -1,7 +1,7 @@
 # The name of this site
 # This text displays in the back-office and
 # can be used in templates through the site.name global variable
-name: "blog_locomotive"
+name: "My Blog with LocomotiveCMS"
 
 # The site's subdomain
 # This option is for sites on multi-site engines
@@ -23,11 +23,12 @@ locales: [en]
 # The TimeZone class from Rail's ActiveSupport is used to interpret the string
 # Sample timezone strings: Tokyo, Beijing, Moscow, Cairo, Paris, Pacific Time (US & Canada)
 # timezone: Paris
+timezone: "Lisbon"
 
 # For SEO purposes, sites may wish to add a relevant string to the <title> tag
 # And include <meta type="keywords"> and <meta type="description">
 # For this purpose you can set values for these variables here
 # They can be accessed in templates through the site.seo_title, site.meta_keywords, and site.meta_description variables
-seo_title: blog_locomotive
-meta_keywords: "some meta keywords"
-meta_description: "some meta description"
+seo_title: build a blog using LocomotiveCMS
+meta_keywords: "rails ruby locomotivecms blog beginner tutorial"
+meta_description: "Learn what to do to start using LocomotiveCMS to build a blog"
