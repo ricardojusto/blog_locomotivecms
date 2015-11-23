@@ -249,3 +249,68 @@ Found page "About" [about]
 [0;32;49mCompleted 200 OK in 3.9ms
 
 [0m
+* Reloaded "pages", "snippets" at 2015-11-23 16:09:09 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 16:11:32 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 16:22:21 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 16:22:44 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 16:23:09 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 16:23:11 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 16:23:23 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 16:23:29 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 16:23:30 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.3ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2015-11-23 16:24:13 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2015-11-23 16:24:14 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2015-11-23 16:24:15 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 16:24:21 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 16:24:25 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 16:25:18 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 16:25:21 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 16:27:52 +0000
