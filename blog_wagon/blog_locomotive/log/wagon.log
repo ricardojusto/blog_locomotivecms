@@ -141,3 +141,73 @@ Found page "About" [about]
 [0;32;49mCompleted 200 OK in 2.4ms
 
 [0m
+* Reloaded "pages", "snippets" at 2015-11-23 15:35:38 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 15:35:41 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2015-11-23 15:37:07 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 15:38:12 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 15:38:14 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 100.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 15:40:40 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 15:40:50 +0000
+* Reloaded "pages", "snippets" at 2015-11-23 15:43:21 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 15:43:27 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 15:45:46 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 15:45:50 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.9ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2015-11-23 15:47:07 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2015-11-23 15:47:12 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-11-23 15:48:00 +0000
+[0;97;49mStarted GET "/about" at 2015-11-23 15:48:02 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/about" at 2015-11-23 15:49:11 +0000[0m
+Detecting locale EN
+Found page "About" [about]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.8ms
+
+[0m
